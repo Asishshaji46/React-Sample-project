@@ -1,0 +1,33 @@
+
+/*    detail page    */
+
+.details-header {
+    margin-left: 46%;
+}
+
+.deta-body {
+    padding-left: 45%;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 75px;
+}
+
+.prize-box {
+    color: red;
+}
+
+.buy-button {
+    width: 151px;
+    border-radius: 7px;
+    margin-bottom: 10px;
+    background-color: aqua;
+    color: red;
+}
+.buy-button:hover{
+    background-color: aquamarine;
+    border-style: double;
+}
+
+/*   settings page     */
+
+

@@ -1,0 +1,17 @@
+.body-button {
+
+    background-color: bisque;
+    width: 170px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    height: 25px;
+    color: aliceblue;
+}
+.dlt-button{
+    margin-left: 65%;
+    width: 100px;
+    border-radius: 5px;
+    background-color: black;
+    color: red;
+    border-color: aqua;
+}

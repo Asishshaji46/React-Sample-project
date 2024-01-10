@@ -1,0 +1,30 @@
+.header-div{
+    background-color: brown;
+    color: aliceblue;
+    padding-left: 44%;
+    padding-top: 1px;
+}
+
+
+.header-parts{
+    padding-left: 400px;
+    font-size: larger;
+    color: cyan;
+    padding-bottom: 16px;
+}
+
+.header-parts :hover{
+
+      color: aliceblue;
+      cursor:pointer;
+}
+
+.details{
+    padding-left: 10px;
+}
+.settings{
+    padding-left: 10px;
+}
+.log{
+    padding-left: 10px;
+}
